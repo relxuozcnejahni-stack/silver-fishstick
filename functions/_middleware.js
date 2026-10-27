@@ -14,7 +14,7 @@ export async function onRequest(context) {
     <title>Welcome</title>
     <meta property="og:title" content="❤️💙💛💜">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://www.google.com/share.google?q=YLHWwv19Sw3hlVFHK">
+    <meta property="og:image" content="https://eu-central.storage.cloudconvert.com/tasks/2b6fbcaa-4d3f-4e78-9572-b3a901a167b7/49.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20261027%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20261027T065009Z&X-Amz-Expires=86400&X-Amz-Signature=c2a3ca7f24185f0a48112fb0fb3f1b1d3ec95a83d9091dc0548494c24a7804b8&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%2249.svg%22&response-content-type=image%2Fsvg%2Bxml&x-amz-checksum-mode=ENABLED&x-id=GetObject">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
